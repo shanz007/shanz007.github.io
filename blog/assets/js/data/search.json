@@ -1,0 +1,13 @@
+[
+  
+  {
+    "title": "Code Quality Series #1 — Avoiding Redundant Conditionals",
+    "url": "/blog/posts/code-quality-series-1-avoiding-redundant-conditionals/",
+    "categories": "Software Engineering, Code Quality",
+    "tags": "java, clean-code, best-practices, static-analysis",
+    "date": "2020-02-12 15:12:12 +0200",
+    "content": "How to simplify Java conditionals by removing redundancy, improving readability, and making your code more maintainable with industry best practices."
+  }
+  
+]
+
