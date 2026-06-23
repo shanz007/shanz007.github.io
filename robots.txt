@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shanz007.github.io/sitemap.xml
